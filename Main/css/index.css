@@ -21,12 +21,10 @@ div .Poster{
     margin-bottom: 2vw;
     filter: drop-shadow(3px 5px 5px #000) 
 }
-div > .maininfo{
-    margin: 24vw;
-    margin-top: 1vw;
-    text-align: center;
-    line-height: 30px;
-    background-color: #DCDCDC;
+div > .maininfo >img{
+    width: 60vw;
+    margin: 18vw;
+    margin-top: 2vw;
 }
 
 
